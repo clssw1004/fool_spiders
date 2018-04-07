@@ -30,7 +30,10 @@ wheels/
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+<<<<<<< HEAD
 .vscode/
+=======
+>>>>>>> 92bf2a6e4483b75c119369b85cbd6450082605d7
 
 # Installer logs
 pip-log.txt
